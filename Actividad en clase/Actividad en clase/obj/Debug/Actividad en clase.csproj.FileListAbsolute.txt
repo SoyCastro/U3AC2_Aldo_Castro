@@ -1,0 +1,8 @@
+C:\Users\Ariel\source\repos\Actividad en clase\Actividad en clase\obj\Debug\Actividad en clase.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\Actividad en clase\Actividad en clase\obj\Debug\Actividad en clase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ariel\source\repos\Actividad en clase\Actividad en clase\obj\Debug\Actividad en clase.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\Actividad en clase\Actividad en clase\bin\Debug\Actividad en clase.exe.config
+C:\Users\Ariel\source\repos\Actividad en clase\Actividad en clase\bin\Debug\Actividad en clase.exe
+C:\Users\Ariel\source\repos\Actividad en clase\Actividad en clase\bin\Debug\Actividad en clase.pdb
+C:\Users\Ariel\source\repos\Actividad en clase\Actividad en clase\obj\Debug\Actividad en clase.exe
+C:\Users\Ariel\source\repos\Actividad en clase\Actividad en clase\obj\Debug\Actividad en clase.pdb
